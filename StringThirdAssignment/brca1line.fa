@@ -1,0 +1,2 @@
+
+return ((double) countcg)/dna.length();  //countcg is integer in the string, dna is a string and thats way double concer only countcg
